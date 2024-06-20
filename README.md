@@ -14,3 +14,5 @@ The Dataset used in this project includes a collection of images depiciting 12  
 4. Open the notebook in Google Colab.
 5. Follow the instructions in the notebook and run the notebook.
 
+# Test class from google cloud 
+[Test Class](https://colab.research.google.com/drive/13RFX5L_iuuD3R4tchXs_wyuFewiMXOlI#scrollTo=HRGjfqGlaQ1p)
